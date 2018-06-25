@@ -1,0 +1,6 @@
+
+DELETE FROM table WHERE id_column IN ('2');
+
+UPDATE table SET column_name = '10' WHERE id_column = '1';
+
+INSERT INTO table VALUES ('30');

@@ -1,0 +1,17 @@
+
+--- First table
++++ Second Table
+@@ -1,1 +0,0 @@
+-id: 2 | column_name: 2 | 
+
+--- First table
++++ Second Table
+@@ -1,1 +1,1 @@
+-id: 1 | column_name: 1 | 
++id: 1 | column_name: 10 | 
+
+--- First table
++++ Second Table
+@@ -0,0 +1,1 @@
++id: 3 | column_name: 30 | 
+
