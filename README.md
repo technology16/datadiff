@@ -40,3 +40,7 @@ datadiff - это приложение для сравнения одинако�
 
 `--version` - вывести текущую версию приложения
 
+## License
+
+This application is licensed under the Apache License, Version 2.0. See LICENCE for details.
+
